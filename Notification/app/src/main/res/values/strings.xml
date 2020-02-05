@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="shoppinglist_action_product_created">com.example.shoppinglist.PRODUCT_CREATED</string>
+    <string name="shoppinglist_action_product_edited">com.example.shoppinglist.PRODUCT_EDITED</string>
+    <string name="shoppinglist_action_product_list">com.example.shoppinglist.PRODUCT_LIST</string>
+    
+    <string name="application_permission_broadcast_receive">com.example.notification.permission.BROADCAST_REC</string>
+</resources>
